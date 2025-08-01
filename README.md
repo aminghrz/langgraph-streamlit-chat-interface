@@ -1,7 +1,3 @@
-Absolutely! Here’s an ideal `README.md` for your **`langgraph-streamlit-chat-interface`** project, following GitHub-flavored Markdown and emphasizing **simplicity**, **flexibility**, **lightweight** design, and **easy adaptability** for custom LangGraph agents. It also clearly references (and links to) your advanced [LangChit](https://github.com/aminghrz/LangChit) project for users seeking more features.
-
----
-
 # 🦜 LangGraph Streamlit Chat Interface
 
 *A simple, flexible, and lightweight Streamlit chat UI for LangGraph agents – ready for your custom workflows!*
