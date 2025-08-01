@@ -8,6 +8,8 @@
 
 **LangGraph Streamlit Chat Interface** is a minimal, developer-friendly Streamlit app for chatting with any [LangGraph](https://github.com/langchain-ai/langgraph) workflow. With persistent thread memory, customizable API settings, and a clean experience, it’s perfect for demos, prototyping, and adapting to your own agent architectures.
 
+![Chat Interface](/img/1.png)
+
 ### Why Use This App?
 
 - 🚀 **Simplicity**: No user authentication, no web search, and no complex setup—just chat.
@@ -80,13 +82,6 @@ Adapting to your own LangGraph agent is simple:
 - Change or expand the agent’s graph structure in [`graph.py`](graph.py).
 - Add any tools, logic nodes, or memory managers you need.
 - UI is in [`app.py`](app.py) and can easily be extended with new Streamlit components.
-
----
-
-## Screenshots
-
-<!-- Optionally add a simple screenshot here -->
-![Screenshot of simple LangGraph chat interface](img/simple-screenshot.png)
 
 ---
 
