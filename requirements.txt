@@ -1,0 +1,9 @@
+streamlit
+sqlite3
+langchain_openai
+langchain_core
+datetime
+openai
+langgraph
+langgraph.checkpoint.sqlite
+typing
